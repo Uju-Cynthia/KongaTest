@@ -9,6 +9,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
+// KongaWebSigninTest
 public class KongaWebSigninTest {
 
     private WebDriver driver;
